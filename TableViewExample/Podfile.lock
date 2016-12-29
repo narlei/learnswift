@@ -1,0 +1,15 @@
+PODS:
+  - Reachability (3.2)
+  - Unirest (1.1.4)
+
+DEPENDENCIES:
+  - Reachability (~> 3.2)
+  - Unirest (~> 1.1)
+
+SPEC CHECKSUMS:
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Unirest: 5e4d93eaf32463bf619a4ecd3bbc8c32acf21eac
+
+PODFILE CHECKSUM: 8d0f8d7e7440f4e3c09ebabce25bf6b7960bf1f4
+
+COCOAPODS: 1.2.0.beta.1
